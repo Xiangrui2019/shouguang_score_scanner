@@ -1,0 +1,19 @@
+{
+  "name": "shouguang_score_scanner",
+  "version": "1.0.0",
+  "description": "寿光市 初中学业水平考试 地理生物成绩 批量查分工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiangrui2019/shouguang_score_scanner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xiangrui2019/shouguang_score_scanner/issues"
+  },
+  "homepage": "https://github.com/Xiangrui2019/shouguang_score_scanner#readme"
+}
