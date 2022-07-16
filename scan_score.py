@@ -40,3 +40,4 @@ while True:
 
     output_file.write("{}, {}, {}, {}\n".format(name.split("：")[1], num, geography, biology))
 
+browser.close()
