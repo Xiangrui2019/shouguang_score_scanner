@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Xiangrui2019/shouguang_score_scanner/issues"
   },
-  "homepage": "https://github.com/Xiangrui2019/shouguang_score_scanner#readme"
+  "homepage": "https://github.com/Xiangrui2019/shouguang_score_scanner#readme",
+  "dependencies": {
+    "puppeteer": "^15.4.0"
+  }
 }
